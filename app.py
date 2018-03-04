@@ -1,3 +1,5 @@
+# Author - Avinash Kumar (akisonlyforu)
+
 import bs4 as bs # For Scraping
 import urllib.request # To connect url
 import sys 
