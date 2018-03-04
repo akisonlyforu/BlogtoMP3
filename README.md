@@ -28,9 +28,10 @@ For Windows , run the Python/IDLE in administrator Mode and then execute.
 <h2>Built With</h2>
   
 ```
-Google Text To Speech
-BeautifulSoup4
-Tkinter
+Python
+Google Text To Speech Library
+BeautifulSoup4 Library
+Tkinter Library
 ```
 
 <h2> How to use it ? </h2>
@@ -52,11 +53,11 @@ Note - After pressing the generate button, dont click on any other button/menu. 
 
 Status message "Accepted" -
 
-![Blog2MP3 Accepted](/readme_2.jpg)
+![Blog2MP3 Accepted](/readme_3.jpg)
 
 Status message "Error" - 
 
-![Blog2MP3 interface](/readme_3.jpg)
+![Blog2MP3 interface](/readme_2.jpg)
 
 <h3> Saved File Location </h3>
 
