@@ -50,7 +50,8 @@ Steps to generate MP3 and TXT -
 3) Paste the URL in the TextField
 4) Click on Generate
 
-Note - After pressing the generate button, dont click on any other button/menu. Wait until the status message is generated.
+Note - Only those articles on Medium are supported which does not require the user to Sign-in.
+       <br>After pressing the generate button, dont click on any other button/menu. Wait until the status message is            generated.
 
 Status message "Accepted" -
 
